@@ -1,4 +1,4 @@
-package com.example.Algorithm;
+package com.example.leetcode;
 
 /**
  * @author 35464

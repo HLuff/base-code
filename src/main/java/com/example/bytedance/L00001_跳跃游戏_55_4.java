@@ -1,9 +1,9 @@
-package com.example.Algorithm;
+package com.example.bytedance;
 
 import java.io.File;
 import java.util.*;
 
-public class L00003_跳跃游戏_55_4 {
+public class L00001_跳跃游戏_55_4 {
 
 	public static void main(String[] args) throws Exception {
 		File file = new File("src/笔试编程/data1.txt");

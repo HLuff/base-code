@@ -1,9 +1,9 @@
-package com.example.Algorithm;
+package com.example.bytedance;
 
 import java.io.File;
 import java.util.*;
 
-public class L00004_跳跃游戏II_45_1 {
+public class L00002_跳跃游戏II_45_1 {
 
 	public static void main(String[] args) throws Exception {
 		File file = new File("src/笔试编程/data1.txt");
@@ -11,7 +11,7 @@ public class L00004_跳跃游戏II_45_1 {
 		// Scanner sc = new Scanner(System.in);
 	}
 
-public int jump(int[] nums) {
+	public int jump(int[] nums) {
         
 		
         return func(nums, 0);

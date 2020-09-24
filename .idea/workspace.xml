@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beca7489-2ecd-468b-9af6-727f2ad7814b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00004_跳跃游戏II_45_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00004_跳跃游戏II_45_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00004_跳跃游戏II_45_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00000_题目_题号_编号.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00000_题目_题号_编号.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00001_最长连续递增序列_674_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00001_最长连续递增序列_674_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00001_最长连续递增序列_674_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00004_跳跃游戏II_45_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00002_跳跃游戏II_45_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00004_跳跃游戏II_45_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00002_跳跃游戏II_45_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00004_跳跃游戏II_45_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00002_跳跃游戏II_45_3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -105,31 +115,37 @@
     <session id="-482675215">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="20" />
+          <entry key="dummy" value="27" />
+          <entry key="java" value="95" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="JAVA" value="95" />
+          <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
     </session>
@@ -140,28 +156,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Summary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+            <state relative-caret-position="18">
+              <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,28 +168,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00004_跳跃游戏II_45_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_3.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00002_跳跃游戏II_45_3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -200,37 +177,76 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+            <state relative-caret-position="54">
+              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_3.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="108">
+              <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00001_最长连续递增序列_674_3.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00002_跳跃游戏II_45_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-342">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/PAT/乙级/L003_数素数.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00000_题目_题号_编号.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+            <state relative-caret-position="162">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -281,6 +297,14 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/Algorithm/T255_55_跳跃游戏_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00004_跳跃游戏II_45_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/力扣刷题/L00003_跳跃游戏_55_4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/Leetcode/L00000_题目_题号_编号.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00000_题目_题号_编号.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_3.java" />
       </list>
     </option>
   </component>
@@ -308,7 +332,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -349,26 +372,27 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="bytedance" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598361547658" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600611940151" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../IMOOC_workspace/2020_05_02_JGS/foodie-dev" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -467,12 +491,16 @@
       <workItem from="1598147492391" duration="520000" />
       <workItem from="1598148931506" duration="3499000" />
       <workItem from="1598279372290" duration="255000" />
-      <workItem from="1598361000628" duration="439000" />
+      <workItem from="1598361000628" duration="1095000" />
+      <workItem from="1598715579846" duration="186000" />
+      <workItem from="1598715802503" duration="657000" />
+      <workItem from="1600345695398" duration="3902000" />
+      <workItem from="1600444007625" duration="7765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33212000" />
+    <option name="totallyTimeSpent" value="46378000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -487,7 +515,7 @@
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499484" visible="true" weight="0.18812375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499484" visible="true" weight="0.2734531" />
       <window_info id="Structure" order="1" sideWeight="0.500516" side_tool="true" weight="0.18413174" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -503,7 +531,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32920536" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.24045408" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32920536" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32846716" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -558,49 +586,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00001_最长连续递增序列_674_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00001_最长连续递增序列_674_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00000_题目_题号_编号.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="7" selection-start-line="14" selection-start-column="4" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="30" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_5.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
@@ -614,24 +614,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Summary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
           <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00001_最长连续递增序列_674_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -642,44 +642,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Summary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00004_跳跃游戏II_45_1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00002_跳跃游戏II_45_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="31" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00002_跳跃游戏II_45_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00002_跳跃游戏II_45_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00000_题目_题号_编号.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
         </state>
       </provider>
     </entry>
