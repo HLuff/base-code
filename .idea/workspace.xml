@@ -1,29 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="beca7489-2ecd-468b-9af6-727f2ad7814b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00000_题目_题号_编号.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00000_题目_题号_编号.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00001_最长连续递增序列_674_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00001_最长连续递增序列_674_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00001_最长连续递增序列_674_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00002_不相交的线_1035_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00003_跳跃游戏_55_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00004_跳跃游戏II_45_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00002_跳跃游戏II_45_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00004_跳跃游戏II_45_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00002_跳跃游戏II_45_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Algorithm/L00004_跳跃游戏II_45_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bytedance/L00002_跳跃游戏II_45_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/PAT/乙级/L001_A加B和C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/PAT/乙级/L002_数字分类.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/PAT/乙级/L003_数素数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Algorithm/L00001_最长连续递增序列_674.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Algorithm/L00001_最长连续递增序列_674_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Algorithm/L00001_最长连续递增序列_674_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/PAT/乙级/L001_A加B和C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/PAT/乙级/L002_数字分类.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/PAT/乙级/L003_数素数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Summary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Summary.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,219 +38,14 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="798713446">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="19" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="19" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="16" />
-          <entry key="java" value="2843" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2843" />
-          <entry key="PLAIN_TEXT" value="16" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1155237471">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="xml" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="XML" value="10" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-482675215">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="18" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="18" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="27" />
-          <entry key="java" value="95" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="95" />
-          <entry key="PLAIN_TEXT" value="27" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="base-code" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00002_跳跃游戏II_45_3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00001_跳跃游戏_55_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/bytedance/L00002_跳跃游戏II_45_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00001_最长连续递增序列_674_3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-342">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00002_不相交的线_1035_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/leetcode/L00000_题目_题号_编号.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -263,6 +53,14 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -326,6 +124,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectId" id="1pMvd4libDzBYI1y2TeEB3t4fhU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -382,48 +181,43 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600611940151" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../IMOOC_workspace/2020_05_02_JGS/foodie-dev" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.example.Algorithm" />
-      <recent name="com.example.PAT.乙级" />
-      <recent name="com.example.algorithm" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\MyWorkspace\IDEA_workspace\08_02_base_code\base-code\src\main\java\com\example\Algorithm" />
       <recent name="F:\IDEA_workspace\exercises\src\main\resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.classic" />
+      <recent name="com.classics" />
+      <recent name="com.example.Algorithm" />
+      <recent name="com.example.PAT.乙级" />
+      <recent name="com.example.algorithm" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.L003_数素数">
-    <configuration name="L002_数字分类" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.PAT.乙级.L002_数字分类" />
+  <component name="RunManager" selected="Application.BlockingSynchronizedThread">
+    <configuration name="BlockingSynchronizedThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.thread.BlockingSynchronizedThread" />
       <module name="base-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.PAT.乙级.*" />
+          <option name="PATTERN" value="com.example.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -431,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L002_数字分类_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.PAT.乙级.L002_数字分类_1" />
+    <configuration name="L00020_二进制加法_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classic.L00020_二进制加法_2" />
       <module name="base-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.PAT.乙级.*" />
+          <option name="PATTERN" value="com.classic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -444,32 +238,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L003_数素数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.PAT.乙级.L003_数素数" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.生产者消费者.Test" />
       <module name="base-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.PAT.乙级.*" />
+          <option name="PATTERN" value="com.example.生产者消费者.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.thread.ThreadTest" />
+      <module name="base-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="volatileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.volatileTest" />
+      <module name="base-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.L002_数字分类" />
-      <item itemvalue="Application.L002_数字分类_1" />
-      <item itemvalue="Application.L003_数素数" />
+      <item itemvalue="Application.ThreadTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.volatileTest" />
+      <item itemvalue="Application.L00020_二进制加法_2" />
+      <item itemvalue="Application.BlockingSynchronizedThread" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L003_数素数" />
-        <item itemvalue="Application.L002_数字分类" />
-        <item itemvalue="Application.L002_数字分类_1" />
+        <item itemvalue="Application.BlockingSynchronizedThread" />
+        <item itemvalue="Application.L00020_二进制加法_2" />
+        <item itemvalue="Application.volatileTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ThreadTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -496,6 +332,30 @@
       <workItem from="1598715802503" duration="657000" />
       <workItem from="1600345695398" duration="3902000" />
       <workItem from="1600444007625" duration="7765000" />
+      <workItem from="1615005859799" duration="6715000" />
+      <workItem from="1615609363833" duration="30417000" />
+      <workItem from="1617362126643" duration="13705000" />
+      <workItem from="1617528526326" duration="11709000" />
+      <workItem from="1618493161261" duration="7280000" />
+      <workItem from="1621074687456" duration="2019000" />
+      <workItem from="1622637704686" duration="1597000" />
+      <workItem from="1623331544258" duration="1569000" />
+      <workItem from="1623933732557" duration="1802000" />
+      <workItem from="1625665530546" duration="1218000" />
+      <workItem from="1625667226734" duration="1786000" />
+      <workItem from="1626182863857" duration="595000" />
+      <workItem from="1626436531714" duration="7722000" />
+      <workItem from="1628342047240" duration="12234000" />
+      <workItem from="1632493056988" duration="2080000" />
+      <workItem from="1633698265964" duration="15931000" />
+      <workItem from="1635775229310" duration="9256000" />
+      <workItem from="1638541982735" duration="5362000" />
+      <workItem from="1640609041598" duration="12282000" />
+      <workItem from="1642341978803" duration="6617000" />
+      <workItem from="1644153151828" duration="622000" />
+      <workItem from="1644325779598" duration="3764000" />
+      <workItem from="1646573683770" duration="2361000" />
+      <workItem from="1647795563925" duration="1962000" />
     </task>
     <servers />
   </component>
@@ -546,22 +406,49 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/example/PAT/乙级/L002_数字分类.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/PAT/L002_数字分类.java</url>
           <line>51</line>
-          <properties />
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/classic/L00010_达标子数组.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/classic/L00010_达标子数组.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/classic/L00010_达标子数组.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/PAT/乙级/L001_A加B和C.java">
